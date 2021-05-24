@@ -7,3 +7,6 @@ Now editing from Visualcode Editor
 
 # Updating the defect fix at the branch level.
 code starts here and completes here.
+
+
+Resolve Conflict
