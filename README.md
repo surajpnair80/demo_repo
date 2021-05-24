@@ -10,3 +10,5 @@ code starts here and completes here.
 
 # Conflict Starts here
 Adding conflict
+
+Resolve Conflict
